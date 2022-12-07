@@ -1,0 +1,15 @@
+$border: 1px solid #ccc;
+
+.scss {
+  margin: 0 auto;
+  padding: 1rem;
+  border-radius: 25px;
+  width: 50%;
+  margin-top: 1rem;
+  border: $border;
+
+  h2 {
+    text-align: center;
+    color: yellow;
+  }
+}

@@ -1,0 +1,36 @@
+@import "../../src/styles/roboto";
+@import "~normalize.css";
+
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: rgb(14, 29, 56);
+}
+
+h1 {
+  text-align: center;
+  color: #fff;
+}
+
+.container {
+  padding-top: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  background-image: url("../logotype.png");
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+}
+
+.link {
+  text-decoration: none;
+  cursor: pointer;
+}
