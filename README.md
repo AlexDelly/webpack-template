@@ -11,3 +11,5 @@
 -css-minimizer-webpack-plugin
 -css-minimizer-webpack-plugin
 -terser-webpack-plugin
+
+[!til]("https://github.com/AlexDelly/webpack-template/blob/main/preview1.png")
