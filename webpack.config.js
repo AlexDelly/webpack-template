@@ -114,7 +114,7 @@ module.exports = {
     main: ["@babel/polyfill", "./index.tsx"],
 
     // Сторонний скрипт
-    analytics: "./analytics.ts",
+    // analytics: "./analytics.ts",
   },
 
   // Локация результата работы wp
