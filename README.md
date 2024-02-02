@@ -2,6 +2,8 @@
 
 # Supports css, less, sass
 
+![alt text](https://github.com/AlexDelly/webpack-template/blob/main/preview2.png)
+
 # Plugins
 
 <ul>
@@ -14,4 +16,4 @@
   <li>terser-webpack-plugin</li>
 </ul>
 
-![til]("https://github.com/AlexDelly/webpack-template/blob/main/preview1.png")
+![alt text]("https://github.com/AlexDelly/webpack-template/blob/main/preview1.png")
