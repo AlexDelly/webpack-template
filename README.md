@@ -4,12 +4,14 @@
 
 # Plugins
 
--html-webpack-plugin
--clean-webpack-plugin
--copy-webpack-plugin
--mini-css-extract-plugin
--css-minimizer-webpack-plugin
--css-minimizer-webpack-plugin
--terser-webpack-plugin
+<ul>
+  <li>html-webpack-plugin</li>
+  <li>clean-webpack-plugin</li>
+  <li>copy-webpack-plugin</li>
+  <li>mini-css-extract-plugin</li>
+  <li>css-minimizer-webpack-plugin</li>
+  <li>css-minimizer-webpack-plugin</li>
+  <li>terser-webpack-plugin</li>
+</ul>
 
-[!til]("https://github.com/AlexDelly/webpack-template/blob/main/preview1.png")
+![til]("https://github.com/AlexDelly/webpack-template/blob/main/preview1.png")
