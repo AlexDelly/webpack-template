@@ -16,4 +16,4 @@
   <li>terser-webpack-plugin</li>
 </ul>
 
-![alt text]("https://github.com/AlexDelly/webpack-template/blob/main/preview2.png")
+![alt text](https://github.com/AlexDelly/webpack-template/blob/main/preview1.png)
